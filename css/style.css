@@ -1,0 +1,19 @@
+.movie-title {
+  font-style: italic;
+  color: purple;
+}
+
+.post {
+  font-family: sans-serif;
+  width: 40%;
+  padding-left: 30%;
+}
+ h1, h2 {
+   padding-left: 30%;
+ }
+
+ .notice {
+   font-weight: bold;
+   color: red;
+   font-size: 30px;
+ }
